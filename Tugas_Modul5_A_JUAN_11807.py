@@ -27,7 +27,7 @@ if os.path.exists(model_path):
             return image_array
 
         # UI Streamlit
-        st.title("Fashion MNIST Image Classifier xxxx")  # Ganti xxxx dengan 4 digit NPM
+        st.title("Fashion MNIST Image Classifier 1807")  # Ganti xxxx dengan 4 digit NPM
         st.write("Unggah satu atau lebih gambar item fashion (misalnya sepatu, tas, baju), dan model akan memprediksi kelasnya.")
 
         # File uploader untuk input beberapa gambar
